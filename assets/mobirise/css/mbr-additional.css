@@ -1,0 +1,228 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#menu-22 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-22.mbr-navbar--stuck .mbr-navbar__section {
+  background: #0000ff;
+}
+#menu-22 .mbr-navbar__section {
+  background: #0000ff;
+}
+#menu-22 .mbr-navbar__items a {
+  font-family: 'PT Serif', serif;
+  font-size: 12px;
+}
+#menu-22 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header3-24 H3 {
+  font-family: 'PT Serif', serif;
+  font-size: 30px;
+  text-align: center;
+  color: #0000ff;
+}
+#header3-24 P {
+  font-family: 'PT Serif', serif;
+  text-align: center;
+}
+#header3-24 SPAN {
+  color: #c1c1c1;
+}
+#slider2-25 P {
+  font-family: 'PT Serif', serif;
+  color: #ffffff;
+  font-size: 20px;
+}
+#slider2-25 H1 {
+  font-family: 'PT Serif', serif;
+  font-size: 30px;
+}
+#header3-26 H3 {
+  font-family: 'PT Serif', serif;
+  text-align: center;
+  font-size: 30px;
+  color: #0000ff;
+}
+#header3-26 P {
+  text-align: center;
+  color: #c1c1c1;
+  font-size: 20px;
+  font-family: 'PT Serif', serif;
+}
+#slider2-27 H1 {
+  color: #f7da64;
+  font-size: 30px;
+  font-family: 'PT Serif', serif;
+}
+#slider2-27 P {
+  font-size: 20px;
+  font-family: 'PT Serif', serif;
+  color: #f7da64;
+}
+#header3-30 H3 {
+  font-family: 'PT Serif', serif;
+  font-size: 30px;
+  text-align: center;
+  color: #0000ff;
+}
+#header3-30 P {
+  font-family: 'PT Serif', serif;
+  font-size: 20px;
+  color: #c1c1c1;
+  text-align: center;
+}
+#header3-30 SPAN {
+  font-family: 'PT Serif', serif;
+}
+#header3-28 H3 {
+  font-family: 'PT Serif', serif;
+  font-size: 30px;
+  text-align: center;
+  color: #0000ff;
+}
+#header3-28 P {
+  text-align: center;
+  color: #c1c1c1;
+  font-size: 20px;
+  font-family: 'PT Serif', serif;
+}
+#header3-21 H3 {
+  font-size: 30px;
+  font-family: 'PT Serif', serif;
+  color: #0000ff;
+  text-align: center;
+}
+#header3-21 P {
+  font-size: 21px;
+  font-family: 'PT Serif', serif;
+  text-align: center;
+  color: #cccccc;
+}
+#header3-17 H3 {
+  font-family: 'PT Serif', serif;
+  text-align: center;
+  font-size: 30px;
+  color: #0000ff;
+}
+#header3-17 P {
+  text-align: center;
+  font-family: 'PT Serif', serif;
+  color: #cccccc;
+  font-size: 20px;
+}
+#header3-23 H3 {
+  font-size: 30px;
+  color: #0000ff;
+  font-family: 'PT Serif', serif;
+  text-align: center;
+}
+#header3-23 P {
+  color: #cccccc;
+  font-family: 'PT Serif', serif;
+  text-align: center;
+  font-size: 20px;
+}
+
+
+
+
+#menu-11 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-11.mbr-navbar--stuck .mbr-navbar__section {
+  background: #0000ff;
+}
+#menu-11 .mbr-navbar__section {
+  background: #0000ff;
+}
+#menu-11 .mbr-navbar__items a {
+  font-family: 'PT Serif', serif;
+  font-size: 12px;
+}
+#menu-11 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header1-27 H1 {
+  font-family: 'PT Serif', serif;
+  font-size: 46px;
+}
+#header1-27 P {
+  font-family: 'PT Serif', serif;
+  font-size: 22px;
+}
+#header1-27 .btn {
+  font-family: 'PT Serif', serif;
+  font-size: 20px;
+}
+
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #0000ff;
+}
+#menu-0 .mbr-navbar__section {
+  background: #0000ff;
+}
+#menu-0 .mbr-navbar__items a {
+  font-family: 'PT Serif', serif;
+  font-size: 12px;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header4-5 H1 {
+  font-family: 'Merriweather', serif;
+}
+
+
+
+
+#ext_menu-28 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-28.mbr-navbar--stuck .mbr-navbar__section {
+  background: #0000ff;
+}
+#ext_menu-28 .mbr-navbar__section {
+  background: #0000ff;
+}
+#ext_menu-28 .mbr-navbar__items a {
+  font-family: 'PT Serif', serif;
+}
+#ext_menu-28 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#contacts2-30 P {
+  color: #ffffff;
+  font-family: 'PT Serif', serif;
+}
+#contacts2-30 UL {
+  color: #ffffff;
+  font-family: 'PT Serif', serif;
+}
+#contacts2-30 STRONG {
+  font-family: 'PT Serif', serif;
+}
