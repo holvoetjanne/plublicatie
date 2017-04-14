@@ -467,6 +467,9 @@ h6,
 #features1-d .mbr-cards-col:nth-child(even) .card-subtitle {
   font-family: 'Raleway', sans-serif;
 }
+#features1-d .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+}
 #features1-j .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
 }
@@ -476,6 +479,7 @@ h6,
 }
 #features1-j .mbr-cards-col:nth-child(odd) .card-subtitle {
   font-family: 'Raleway', sans-serif;
+  text-align: center;
 }
 #features1-j .mbr-cards-col:nth-child(odd) .card-text {
   color: #f3c649;
@@ -485,6 +489,9 @@ h6,
 }
 #features1-j .mbr-cards-col:nth-child(even) .card-subtitle {
   font-family: 'Raleway', sans-serif;
+}
+#features1-j .mbr-cards-col:nth-child(odd) .card-subtitle SPAN {
+  color: #000000;
 }
 
 #msg-box8-l .mbr-section-title,
